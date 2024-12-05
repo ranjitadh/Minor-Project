@@ -1,0 +1,50 @@
+1)  Hello
+2)  Good Morning
+3)  Good Evening
+4)  Good Afternoon
+5)  Thank you
+6)  Apple
+7)  Bag
+8)  Eat
+9)  Damage
+10) Expire
+11) Find
+12) Good
+13) Great
+14) Man
+15) Move
+16) Mistake
+17) Night
+18) Open
+19) Over
+20) Once
+21) Only
+22) Other
+23) Please
+24) Pick
+25) Proper
+26) Quite
+27) Quit
+28) Run
+29) Rate
+30) Tough
+31) Tear
+32) Up
+33) Down
+34) Right
+35) Left
+36) Under
+37) Van
+38) Voice
+39) Text
+40) Sign
+41) Language
+42) Waste
+43) Work
+44) What
+45) Wait
+46) You
+47) Yes
+48) No
+49) Year
+50) Zone
